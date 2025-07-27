@@ -20,7 +20,7 @@ tabs:
 search:
   hint: Zoek
   cancel: Annuleer
-  no_results: Oops! Geen resultaat gevonden.
+  no_results: Oeps! Geen resultaat gevonden.
 
 panel:
   lastmod: Recent Bijgewerkt
